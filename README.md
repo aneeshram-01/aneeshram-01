@@ -16,7 +16,7 @@
 
 ↗ Goal: Contribute to an organization where I can learn and grow with talented individuals
 
-↗ Interests: Tech enthusiast, EDM listener, binge watching movies and TV shows
+↗ Interests: Tech enthusiast, EDM/Pop/Rock, binge watching movies and TV shows
 
 ## 🌐 Socials:
 
