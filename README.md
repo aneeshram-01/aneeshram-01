@@ -6,9 +6,9 @@
 
 🧠 Learning MERN stack development
 
-⚡️ Currently building a MERN E-Commerce website
+⚡️ Working on a event booking website using MERN
 
-📫 Mail me at aneeshram19@gmail.com | ram.aneesh01@gmail.com
+📫 Mail me at aneeshram19@gmail.com
 
 ↗ Computer Science Student: Batch of 2024 at NMAM Institute of Technology(NMAMIT), Nitte
 
