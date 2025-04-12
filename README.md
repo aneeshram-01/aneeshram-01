@@ -30,13 +30,16 @@ I’m collaborating with an awesome team to build a **Web app** that drives impa
 
 ### 🎯 What Drives Me
 
-I’m all about creating tools that make users’ lives easier while soaking up knowledge from talented teammates. My goal? Keep pushing the boundaries of what I can build, from clean code to intuitive UIs, and share that excitement with the dev community.
+I’m all about creating tools that make users’ lives easier while soaking up knowledge from talented teammates. My goal? Keep pushing the boundaries of what I can build, from clean code to intuitive UIs.
 
 ---
 
 ### 🌐 Connect With Me
 
 <div align="center">
+  <a href="https://react-portfolio-website-wheat-sigma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:aneeshram19@gmail.com">
     <img src="https://img.shields.io/badge/Email-aneeshram19@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -80,9 +83,14 @@ When I’m not debugging routes or styling components, I’m:
 - Binge-watching sci-fi movies and TV shows 📺
 - Exploring new tech trends to stay inspired
 
-### My Learning Journey
-Explore my progress on roadmap.sh, where I’m tracking my growth in web development!
+---
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66daac6bc46f68d0528a05d0?variant=dark&roadmaps=66e163a3ee0aa6b8519881d0%2Creact)](https://roadmap.sh)
+### My Learning Journey
+
+Explore my progress on roadmap.sh
+
+[roadmap.sh](https://roadmap.sh/card/wide/66daac6bc46f68d0528a05d0?variant=dark&roadmaps=66e163a3ee0aa6b8519881d0%2Creact), where I’m tracking my growth in React and web development!
+
+---
 
 Thanks for checking out my profile! Dive into my repos to see what I’m building, and let’s connect over code! ✨
