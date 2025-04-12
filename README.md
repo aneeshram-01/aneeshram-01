@@ -1,30 +1,88 @@
+<div align="center">
+  <h1>👋 Hi, I'm Aneesh!</h1>
+  <p>Software Developer building modern web apps with React and a passion for clean, scalable code.</p>
+</div>
 
-# Hi, I'm Aneeshram! 👋
-## 🚀 About Me
+---
 
-👩‍💻 I'm an engineering student and a web developer...
+### 🚀 What I’m Working On
 
-🧠 Learning MERN stack development
+I’m collaborating with an awesome team to build a **Web app** that drives impactful, real-world solutions. Since graduating with a Computer Science degree from NMAMIT (2024), I’ve been creating dynamic, user-friendly web experiences using **React** and a cutting-edge frontend stack, including:
 
-⚡️ Working on a event booking website using MERN
+- **Turborepo** for monorepo efficiency
+- **Module Federation** for micro-frontends
+- **Tanstack Router** and **Query** for seamless navigation and data fetching
+- **Zustand** for lightweight state management
+- **Shadcn UI** and **TailwindCSS** for polished, responsive designs
+- **Jest** and **React Testing Library** for robust testing
+- **Storybook** and **Chromatic** for UI component review
 
-📫 Mail me at aneeshram19@gmail.com
+---
 
-↗ Computer Science Student: Batch of 2024 at NMAM Institute of Technology(NMAMIT), Nitte
+### 🧠 Currently Exploring
 
-↗ Motivation: Eager to apply independent project experience and theoretical knowledge
+- Micro-frontend architectures with Module Federation
+- Advanced state management with Zustand and Tanstack Query
+- Test-driven development with Jest and RTL
+- Performance optimization in React apps
 
-↗ Goal: Contribute to an organization where I can learn and grow with talented individuals
+---
 
-↗ Interests: Tech enthusiast, EDM/Pop/Rock, binge watching movies and TV shows
+### 🎯 What Drives Me
 
-## 🌐 Socials:
+I’m all about creating tools that make users’ lives easier while soaking up knowledge from talented teammates. My goal? Keep pushing the boundaries of what I can build, from clean code to intuitive UIs, and share that excitement with the dev community.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://react-portfolio-website-wheat-sigma.vercel.app/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aneesh_ram01) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aneesh.ram01) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aneeshram-bhat-364a82249) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### 🌐 Connect With Me
 
+<div align="center">
+  <a href="mailto:aneeshram19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aneeshram19@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/@aneesh_ram01">
+    <img src="https://img.shields.io/badge/X-@aneesh_ram01-black?logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://linkedin.com/in/aneeshram-bhat-364a82249">
+    <img src="https://img.shields.io/badge/LinkedIn-Aneeshram_Bhat-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/aneesh.ram01">
+    <img src="https://img.shields.io/badge/Instagram-aneesh.ram01-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Zustand-000000?logo=react&logoColor=white&style=flat-square" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Tanstack_Query-FF4154?logo=react-query&logoColor=white&style=flat-square" alt="Tanstack Query" />
+  <img src="https://img.shields.io/badge/Tanstack_Router-000000?logo=react-router&logoColor=white&style=flat-square" alt="Tanstack Router" />
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?logo=turborepo&logoColor=white&style=flat-square" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=flat-square" alt="Storybook" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-square" alt="Jest" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
+</div>
+
+---
+
+### 🎸 Beyond Code
+
+When I’m not debugging routes or styling components, I’m:
+- Jamming to EDM, Pop, or Rock 🎶
+- Binge-watching sci-fi movies and TV shows 📺
+- Exploring new tech trends to stay inspired
+
+### My Learning Journey
+Explore my progress on roadmap.sh, where I’m tracking my growth in web development!
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66daac6bc46f68d0528a05d0?variant=dark&roadmaps=66e163a3ee0aa6b8519881d0%2Creact)](https://roadmap.sh)
+
+Thanks for checking out my profile! Dive into my repos to see what I’m building, and let’s connect over code! ✨
