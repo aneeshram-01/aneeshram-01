@@ -87,9 +87,9 @@ When I’m not debugging routes or styling components, I’m:
 
 ### My Learning Journey
 
-Explore my progress on roadmap.sh
+Explore my progress on roadmap.sh, where I’m tracking my growth in web development!
 
-[roadmap.sh](https://roadmap.sh/card/wide/66daac6bc46f68d0528a05d0?variant=dark&roadmaps=66e163a3ee0aa6b8519881d0%2Creact), where I’m tracking my growth in React and web development!
+[![roadmap.sh](https://roadmap.sh/card/wide/66daac6bc46f68d0528a05d0?variant=dark&roadmaps=66e163a3ee0aa6b8519881d0%2Creact)](https://roadmap.sh)
 
 ---
 
