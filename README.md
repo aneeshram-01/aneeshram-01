@@ -87,6 +87,12 @@ When I’m not debugging or styling components, I’m:
 
 ---
 
+#### 📈 Experience
+
+<img src="src/assets/Learning%20Curve.png" alt="Learning Curve" width="100%" />
+
+---
+
 ### My Learning Journey
 
 Explore my progress on roadmap.sh, where I’m tracking my growth in web development!
