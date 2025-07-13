@@ -69,6 +69,7 @@ I’m all about creating tools that make users’ lives easier while soaking up 
   <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=flat-square" alt="Storybook" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-square" alt="Jest" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
@@ -78,10 +79,11 @@ I’m all about creating tools that make users’ lives easier while soaking up 
 
 ### 🎸 Beyond Code
 
-When I’m not debugging routes or styling components, I’m:
+When I’m not debugging or styling components, I’m:
 - Jamming to EDM, Pop, or Rock 🎶
-- Binge-watching sci-fi movies and TV shows 📺
+- Binge watching sci-fi movies and TV shows 📺
 - Exploring new tech trends to stay inspired
+- Training MMA: Boxing and Jiu-Jitsu 🥋🥊
 
 ---
 
